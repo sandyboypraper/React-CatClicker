@@ -1,0 +1,21 @@
+{
+  "name": "catclicker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "react": "^16.8.6",
+    "react-addons-update": "^15.6.2",
+    "react-dom": "^16.8.6",
+    "react-scripts": "0.9.5",
+    "reactstrap": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

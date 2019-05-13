@@ -1,0 +1,16 @@
+.myboxi{
+	padding: 20px 30px 20px 30px !important;
+}
+
+Button{
+	margin: 10px !important;
+}
+
+.myimage{
+	max-height: 400px !important;
+}
+
+.mylist{
+	max-height: 80vh !important;
+	overflow: auto;
+}
